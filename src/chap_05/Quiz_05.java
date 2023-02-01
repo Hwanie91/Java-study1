@@ -1,6 +1,6 @@
 package chap_05;
 
-public class _05_Quiz_05 {
+public class Quiz_05 {
 
     // 신발 사이즈는 250 부터 295 까지 5 단위로 증가
     // 신발 사이즈 수는 총 10가지
